@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "sensor-simulator"
-version = "0.1.0"
-description = ""
+version = "0.0.1"
+description = "A python package which generates different fake sensor data based on different input conditions"
 authors = ["Tapajoyti Chowdhury <tchowdhury@tnsiit.com>"]
 readme = "README.md"
 
